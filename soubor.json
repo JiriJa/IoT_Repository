@@ -73,13 +73,13 @@
     "Je Zapnuto": false
   },
   "speaker001": { 
-    "Upozornìní": 2, 
+    "Upozorneni": 2, 
     "skladba prehravana": true,
-    "skladba Nazev": "Cukráøská Bosanova",
-    "skladba Umelec": "Karel Plíhal"
+    "skladba Nazev": "Cukrarska Bosanova",
+    "skladba Umelec": "Karel Plihal"
   },
   "speaker002": {
-    "Upozornìní": 0,
+    "Upozorneni": 0,
     "skladba prehravana": true,
     "skladba Nazev": "How Deep is Your Love",
     "skladba Umelec": "Bee Gees"
@@ -98,41 +98,41 @@
     "Je zamknuto": true
   },
   "bed001": {
-    "Hodiny spánku": 3,
-    "Kvalita spánku": "Poor",
+    "Hodiny spanku": 3,
+    "Kvalita spanku": "Poor",
     "Uhel pro nohy": 0,
     "Uhel pro hlavu": 0
   },
   "bed002": {
-    "Hodiny spánku": 9,
-    "Kvalita spánku": "Great",
+    "Hodiny spanku": 9,
+    "Kvalita spanku": "Great",
     "Uhel pro nohy": 15,
     "Uhel pro hlavu": 10
   },
   "bed003": {
-    "Hodiny spánku": 7,
-    "Kvalita spánku": "Good",
+    "Hodiny spanku": 7,
+    "Kvalita spanku": "Good",
     "Uhel pro nohy": 30,
     "Uhel pro hlavu": 15
   },
   "dishwasher001": {
-    "Zbývající èas": 23,
+    "Zbyvajici cas": 23,
     "Cyklus": 6
   },
   "washer001": {
-    "Zbývající èas": 15,
+    "Zbyvajici cas": 15,
     "Cyklus": 10
   },
   "oven001": {
-    "Teplota (Farenhiet)": 300,
-    "Zbývající èas": 60
+    "Teplota (Celsius)": 210,
+    "Zbyvajici cas": 60
   },
   "jacuzzi001": {
-    "Teplota Farenhiet": 100,
+    "Teplota (Celsius)": 41.5,
     "Tlak vody (PSI)": 40
   },
   "garage001": {
-    "Vozidla zaparkována": 2,
+    "Vozidla zaparkovana": 2,
     "Otevreno": false
   },
   "thermostat001": {
