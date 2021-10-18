@@ -73,13 +73,13 @@
     "Je Zapnuto": false
   },
   "speaker001": { 
-    "Upozortrueni": 2, 
+    "Upozornìní": 2, 
     "skladba prehravana": true,
-    "skladba Nazev": "All I Want for Christmas Is You",
-    "skladba Umelec": "Mariah Carey"
+    "skladba Nazev": "Cukráøská Bosanova",
+    "skladba Umelec": "Karel Plíhal"
   },
   "speaker002": {
-    "Upozortrueni": 0,
+    "Upozornìní": 0,
     "skladba prehravana": true,
     "skladba Nazev": "How Deep is Your Love",
     "skladba Umelec": "Bee Gees"
@@ -98,47 +98,47 @@
     "Je zamknuto": true
   },
   "bed001": {
-    "Hodiny spanku": 3,
-    "Kvalita Spanku": "Poor",
+    "Hodiny spánku": 3,
+    "Kvalita spánku": "Poor",
     "Uhel pro nohy": 0,
     "Uhel pro hlavu": 0
   },
   "bed002": {
-    "Hodiny spanku": 9,
-    "Kvalita Spanku": "Great",
+    "Hodiny spánku": 9,
+    "Kvalita spánku": "Great",
     "Uhel pro nohy": 15,
     "Uhel pro hlavu": 10
   },
   "bed003": {
-    "Hodiny spanku": 7,
-    "Kvalita Spanku": "Good",
+    "Hodiny spánku": 7,
+    "Kvalita spánku": "Good",
     "Uhel pro nohy": 30,
     "Uhel pro hlavu": 15
   },
   "dishwasher001": {
-    "Zbyvyjici cas": 23,
+    "Zbývající èas": 23,
     "Cyklus": 6
   },
   "washer001": {
-    "Zbyvyjici cas": 15,
+    "Zbývající èas": 15,
     "Cyklus": 10
   },
   "oven001": {
     "Teplota (Farenhiet)": 300,
-    "Zbyvyjici cas": 60
+    "Zbývající èas": 60
   },
   "jacuzzi001": {
     "Teplota Farenhiet": 100,
     "Tlak vody (PSI)": 40
   },
   "garage001": {
-    "Vehicles Contaitrued": 2,
+    "Vozidla zaparkována": 2,
     "Otevreno": false
   },
   "thermostat001": {
-    "Teplota Farenhiet": 73
+    "Teplota Celsius": 23
   },
   "thermostat002": {
-    "Teplota Farenhiet": 74
+    "Teplota Celsius": 23.5
   }
 }
