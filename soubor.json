@@ -1,101 +1,101 @@
 {
   "Time": "2021-10-15T08:24:42.2151",
   "light001": {
-    "Je Zapnuto": ANO
+    "Je Zapnuto": false
   },
   "light002": {
-    "Je Zapnuto": NE
+    "Je Zapnuto": true
   },
   "light003": {
-    "Je Zapnuto": NE
+    "Je Zapnuto": true
   },
   "light004": {
-    "Je Zapnuto": ANO
+    "Je Zapnuto": false
   },
   "light005": {
-    "Je Zapnuto": NE
+    "Je Zapnuto": true
   },
   "light006": {
-    "Je Zapnuto": ANO
+    "Je Zapnuto": false
   },
   "light007": {
-    "Je Zapnuto": ANO
+    "Je Zapnuto": false
   },
   "light008": {
-    "Je Zapnuto": NE
+    "Je Zapnuto": true
   },
   "light009": {
-    "Je Zapnuto": ANO
+    "Je Zapnuto": false
   },
   "light010": {
-    "Je Zapnuto": ANO
+    "Je Zapnuto": false
   },
   "light011": {
-    "Je Zapnuto": NE
+    "Je Zapnuto": true
   },
   "light012": {
-    "Je Zapnuto": ANO
+    "Je Zapnuto": false
   },
   "light013": {
-    "Je Zapnuto": ANO
+    "Je Zapnuto": false
   },
   "light014": {
-    "Je Zapnuto": ANO
+    "Je Zapnuto": false
   },
   "light015": {
-    "Je Zapnuto": NE
+    "Je Zapnuto": true
   },
   "light016": {
-    "Je Zapnuto": ANO
+    "Je Zapnuto": false
   },
   "light017": {
-    "Je Zapnuto": NE
+    "Je Zapnuto": true
   },
   "light018": {
-    "Je Zapnuto": NE
+    "Je Zapnuto": true
   },
   "light019": {
-    "Je Zapnuto": ANO
+    "Je Zapnuto": false
   },
   "light020": {
-    "Je Zapnuto": ANO
+    "Je Zapnuto": false
   },
   "light021": {
-    "Je Zapnuto": ANO
+    "Je Zapnuto": false
   },
   "light022": {
-    "Je Zapnuto": ANO
+    "Je Zapnuto": false
   },
   "light023": {
-    "Je Zapnuto": ANO
+    "Je Zapnuto": false
   },
   "light024": {
-    "Je Zapnuto": ANO
+    "Je Zapnuto": false
   },
   "speaker001": { 
-    "Upozorneni": 2, 
-    "skladba prehravana": NE,
+    "Upozortrueni": 2, 
+    "skladba prehravana": true,
     "skladba Nazev": "All I Want for Christmas Is You",
     "skladba Umelec": "Mariah Carey"
   },
   "speaker002": {
-    "Upozorneni": 0,
-    "skladba prehravana": NE,
+    "Upozortrueni": 0,
+    "skladba prehravana": true,
     "skladba Nazev": "How Deep is Your Love",
     "skladba Umelec": "Bee Gees"
   },
   "tv001": {
-    "Je Zapnuto": NE,
+    "Je Zapnuto": true,
     "Aktualni Program cislo": 17
   },
   "lock001": {
-    "Je zamknuto": ANO
+    "Je zamknuto": false
   },
   "lock002": {
-    "Je zamknuto": NE
+    "Je zamknuto": true
   },
   "lock003": {
-    "Je zamknuto": NE
+    "Je zamknuto": true
   },
   "bed001": {
     "Hodiny spanku": 3,
@@ -132,8 +132,8 @@
     "Tlak vody (PSI)": 40
   },
   "garage001": {
-    "Vehicles Contained": 2,
-    "Otevreno": ANO
+    "Vehicles Contaitrued": 2,
+    "Otevreno": false
   },
   "thermostat001": {
     "Teplota Farenhiet": 73
