@@ -1,0 +1,144 @@
+{
+  "Time": "2021-10-15T08:24:42.2151",
+  "light001": {
+    "Je Zapnuto": ANO
+  },
+  "light002": {
+    "Je Zapnuto": NE
+  },
+  "light003": {
+    "Je Zapnuto": NE
+  },
+  "light004": {
+    "Je Zapnuto": ANO
+  },
+  "light005": {
+    "Je Zapnuto": NE
+  },
+  "light006": {
+    "Je Zapnuto": ANO
+  },
+  "light007": {
+    "Je Zapnuto": ANO
+  },
+  "light008": {
+    "Je Zapnuto": NE
+  },
+  "light009": {
+    "Je Zapnuto": ANO
+  },
+  "light010": {
+    "Je Zapnuto": ANO
+  },
+  "light011": {
+    "Je Zapnuto": NE
+  },
+  "light012": {
+    "Je Zapnuto": ANO
+  },
+  "light013": {
+    "Je Zapnuto": ANO
+  },
+  "light014": {
+    "Je Zapnuto": ANO
+  },
+  "light015": {
+    "Je Zapnuto": NE
+  },
+  "light016": {
+    "Je Zapnuto": ANO
+  },
+  "light017": {
+    "Je Zapnuto": NE
+  },
+  "light018": {
+    "Je Zapnuto": NE
+  },
+  "light019": {
+    "Je Zapnuto": ANO
+  },
+  "light020": {
+    "Je Zapnuto": ANO
+  },
+  "light021": {
+    "Je Zapnuto": ANO
+  },
+  "light022": {
+    "Je Zapnuto": ANO
+  },
+  "light023": {
+    "Je Zapnuto": ANO
+  },
+  "light024": {
+    "Je Zapnuto": ANO
+  },
+  "speaker001": { 
+    "Upozorneni": 2, 
+    "skladba prehravana": NE,
+    "skladba Nazev": "All I Want for Christmas Is You",
+    "skladba Umelec": "Mariah Carey"
+  },
+  "speaker002": {
+    "Upozorneni": 0,
+    "skladba prehravana": NE,
+    "skladba Nazev": "How Deep is Your Love",
+    "skladba Umelec": "Bee Gees"
+  },
+  "tv001": {
+    "Je Zapnuto": NE,
+    "Aktualni Program cislo": 17
+  },
+  "lock001": {
+    "Je zamknuto": ANO
+  },
+  "lock002": {
+    "Je zamknuto": NE
+  },
+  "lock003": {
+    "Je zamknuto": NE
+  },
+  "bed001": {
+    "Hodiny spanku": 3,
+    "Kvalita Spanku": "Poor",
+    "Uhel pro nohy": 0,
+    "Uhel pro hlavu": 0
+  },
+  "bed002": {
+    "Hodiny spanku": 9,
+    "Kvalita Spanku": "Great",
+    "Uhel pro nohy": 15,
+    "Uhel pro hlavu": 10
+  },
+  "bed003": {
+    "Hodiny spanku": 7,
+    "Kvalita Spanku": "Good",
+    "Uhel pro nohy": 30,
+    "Uhel pro hlavu": 15
+  },
+  "dishwasher001": {
+    "Zbyvyjici cas": 23,
+    "Cyklus": 6
+  },
+  "washer001": {
+    "Zbyvyjici cas": 15,
+    "Cyklus": 10
+  },
+  "oven001": {
+    "Teplota (Farenhiet)": 300,
+    "Zbyvyjici cas": 60
+  },
+  "jacuzzi001": {
+    "Teplota Farenhiet": 100,
+    "Tlak vody (PSI)": 40
+  },
+  "garage001": {
+    "Vehicles Contained": 2,
+    "Otevreno": ANO
+  },
+  "thermostat001": {
+    "Teplota Farenhiet": 73
+  },
+  "thermostat002": {
+    "Teplota Farenhiet": 74
+  }
+}
