@@ -72,13 +72,13 @@
   "light024": {
     "Je Zapnuto": false
   },
-  "speaker001": { 
+  "speaker002": { 
     "Upozorneni": 2, 
     "skladba prehravana": true,
     "skladba Nazev": "Cukrarska Bosanova",
     "skladba Umelec": "Karel Plihal"
   },
-  "speaker002": {
+  "speaker001": {
     "Upozorneni": 0,
     "skladba prehravana": true,
     "skladba Nazev": "How Deep is Your Love",
