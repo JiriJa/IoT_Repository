@@ -139,6 +139,9 @@
     "Teplota Celsius": 23
   },
   "thermostat002": {
-    "Teplota Celsius": 23.5
+    "Teplota Celsius": 27.5
+  },
+  "thermostat003": {
+    "Teplota Celsius": 24.5
   }
 }
