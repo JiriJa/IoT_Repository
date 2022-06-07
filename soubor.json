@@ -163,7 +163,7 @@
     "Teplota den MAX Celsius": 27.8,
     "Relativní vlhkost %": 61.5,
     "Atmosferický tlak mmHg": 760.3,
-    "Rychlost větru m/s": 1.2,
+    "Rychlost větru m/s": 1.2
   },
   "meteorology002": {
     "STAVEBNÍ STATUS": 1,
@@ -172,7 +172,7 @@
     "Teplota den MAX Celsius": 27.5,
     "Relativní vlhkost %": 60.5,
     "Atmosferický tlak mmHg": 761.3,
-    "Rychlost větru m/s": 1.4,
+    "Rychlost větru m/s": 1.4
   },
   "meteorology003": {
     "STAVEBNÍ STATUS": 1,
@@ -181,7 +181,7 @@
     "Teplota den MAX Celsius": 26.7,
     "Relativní vlhkost %": 57.5,
     "Atmosferický tlak mmHg": 750.4,
-    "Rychlost větru m/s": 2.1,
+    "Rychlost větru m/s": 2.1
   },
   "meteorology004": {
     "STAVEBNÍ STATUS": 1,
@@ -190,6 +190,6 @@
     "Teplota den MAX Celsius": 26.4,
     "Relativní vlhkost %": 59.5,
     "Atmosferický tlak mmHg": 749.6,
-    "Rychlost větru m/s": 2.3,
+    "Rychlost větru m/s": 2.3
   }
 }
