@@ -145,15 +145,15 @@
     "Teplota Celsius": 24.5
   },
   "deflectometer001": {
-    "MAX tolerovana hodnota +/- mm": 3
+    "MAX tolerovana hodnota +/- mm": 3,
     "Fyzicky posun mm": 1.731
   },
   "deflectometer002": {
-    "MAX tolerovana hodnota +/- mm": 3
+    "MAX tolerovana hodnota +/- mm": 3,
     "Fyzicky posun mm": 1.026
   },
   "deflectometer003": {
-    "MAX tolerovana hodnota +/- mm": 3
+    "MAX tolerovana hodnota +/- mm": 3,
     "Fyzicky posun mm": 0.753
   }
 }
