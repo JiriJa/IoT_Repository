@@ -191,5 +191,35 @@
     "Relativní vlhkost %": 59.5,
     "Atmosferický tlak mmHg": 749.6,
     "Rychlost větru m/s": 2.3
-  }
+  },
+  "inclinometer001": {
+    "STABILITNÍ STATUS": 1,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": 0.0023
+  },
+  "inclinometer002": {
+    "STABILITNÍ STATUS": 1,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": 0.0023
+  },
+    "inclinometer003": {
+    "STABILITNÍ STATUS": 1,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": 0.0023
+  },
+  "humudity001": {
+    "NASYCENOST PODLOŽÍ STATUS": "SETRVALÝ STAV",
+    "vyska vodniho sloupce mm": 350,
+    "gradinet rustu hladiny": -10
+  },
+  "humudity002": {
+    "NASYCENOST PODLOŽÍ STATUS": "SETRVALÝ STAV",
+    "vyska vodniho sloupce mm": 350,
+    "gradinet rustu hladiny": -10
+  },
+  "humudity003": {
+    "NASYCENOST PODLOŽÍ STATUS": "SETRVALÝ STAV",
+    "vyska vodniho sloupce mm": 350,
+    "gradinet rustu hladiny": -10
+  },
 }
