@@ -200,12 +200,12 @@
   "inclinometer002": {
     "STABILITNÍ STATUS": 1,
     "delta MAX tolerce hodnota +/- mm": 0.2,
-    "gradinet posunu mm/mesic": 0.0023
+    "gradinet posunu mm/mesic": 0.0007
   },
     "inclinometer003": {
     "STABILITNÍ STATUS": 1,
     "delta MAX tolerce hodnota +/- mm": 0.2,
-    "gradinet posunu mm/mesic": 0.0023
+    "gradinet posunu mm/mesic": -0.0012
   },
   "humidity001": {
     "NASYCENOST PODLOŽÍ STATUS": "SETRVALÝ STAV",
@@ -214,12 +214,12 @@
   },
   "humidity002": {
     "NASYCENOST PODLOŽÍ STATUS": "SETRVALÝ STAV",
-    "vyska vodniho sloupce mm": 350,
-    "gradinet rustu hladiny": -10
+    "vyska vodniho sloupce mm": 152,
+    "gradinet rustu hladiny": -100
   },
   "humidity003": {
-    "NASYCENOST PODLOŽÍ STATUS": "SETRVALÝ STAV",
-    "vyska vodniho sloupce mm": 350,
-    "gradinet rustu hladiny": -10
+    "NASYCENOST PODLOŽÍ STATUS": "MÍRNÝ RŮST",
+    "vyska vodniho sloupce mm": 453,
+    "gradinet rustu hladiny": 105
   }
 }
