@@ -221,5 +221,410 @@
     "NASYCENOST PODLOŽÍ STATUS": "MÍRNÝ RŮST",
     "vyska vodniho sloupce mm": 453,
     "gradinet rustu hladiny": 105
-  }
+  },
+  "inclinometer010": {
+    "číslo popisné": 45,
+    "vlastník": "Břeň",
+    "vlastník kontakt": "+420 605 229 001",
+    "INSTALOVANÝ MĚŘIČ": "SIESMO BOSCH 3150",
+    "INSTALOVÁNO DNE": "25.9.2023",
+    "STABILITNÍ STATUS": "STABILNÍ VÍCE než 10 dní",
+    "POSLEDNÍ ODEČET": "15.10.2023   7:15",
+    "gradinet posunu mm/mesic": -0.0012
+    "odpovědná osoba zhotovitele": "Ing. Vohlídal",
+    "kontakt": "+420 775 729 881",
+    "Plánovaná revize DNE": "25.11.2023",
+    "zpráva zhotoviteli": "do 15.10. kontaktujte Máňu + 420 778 225 321",
+    "zpráva majiteli": "Vážený pane ty kytky Vám zalévat nebudeme !!!"
+ },
+  "inclinometer011": {
+    "číslo popisné": 46,
+    "vlastník": "Břeň",
+    "vlastník kontakt": "+420 605 229 001",
+    "INSTALOVANÝ MĚŘIČ": "SIESMO BOSCH 3150",
+    "INSTALOVÁNO DNE": "25.9.2023",
+    "STABILITNÍ STATUS": "STABILNÍ VÍCE než 10 dní",
+    "POSLEDNÍ ODEČET": "15.10.2023   7:15",
+    "gradinet posunu mm/mesic": -0.0012
+    "odpovědná osoba zhotovitele": "Ing. Vohlídal",
+    "kontakt": "+420 775 729 881",
+    "Plánovaná revize DNE": "25.11.2023",
+    "zpráva zhotoviteli": "do 15.10. kontaktujte Máňu + 420 778 225 321",
+    "zpráva majiteli": "Vážený pane ty kytky Vám zalévat nebudeme !!!"
+ },
+  "inclinometer012": {
+    "číslo popisné": 47,
+    "vlastník": "Břeň",
+    "vlastník kontakt": "+420 605 229 001",
+    "INSTALOVANÝ MĚŘIČ": "SIESMO BOSCH 3150",
+    "INSTALOVÁNO DNE": "25.9.2023",
+    "STABILITNÍ STATUS": "STABILNÍ VÍCE než 10 dní",
+    "POSLEDNÍ ODEČET": "15.10.2023   7:15",
+    "gradinet posunu mm/mesic": -0.0012
+    "odpovědná osoba zhotovitele": "Ing. Vohlídal",
+    "kontakt": "+420 775 729 881",
+    "Plánovaná revize DNE": "25.11.2023",
+    "zpráva zhotoviteli": "do 15.10. kontaktujte Máňu + 420 778 225 321",
+    "zpráva majiteli": "Vážený pane ty kytky Vám zalévat nebudeme !!!"
+ },
+  "inclinometer013": {
+    "číslo popisné": 49,
+    "vlastník": "Břeň",
+    "vlastník kontakt": "+420 605 229 001",
+    "INSTALOVANÝ MĚŘIČ": "SIESMO BOSCH 3150",
+    "INSTALOVÁNO DNE": "25.9.2023",
+    "STABILITNÍ STATUS": "STABILNÍ VÍCE než 10 dní",
+    "POSLEDNÍ ODEČET": "15.10.2023   7:15",
+    "gradinet posunu mm/mesic": -0.0012
+    "odpovědná osoba zhotovitele": "Ing. Vohlídal",
+    "kontakt": "+420 775 729 881",
+    "Plánovaná revize DNE": "25.11.2023",
+    "zpráva zhotoviteli": "do 15.10. kontaktujte Máňu + 420 778 225 321",
+    "zpráva majiteli": "Vážený pane ty kytky Vám zalévat nebudeme !!!"
+ },
+  "inclinometer014": {
+    "číslo popisné": 50,
+    "vlastník": "Břeň",
+    "vlastník kontakt": "+420 605 229 001",
+    "INSTALOVANÝ MĚŘIČ": "SIESMO BOSCH 3150",
+    "INSTALOVÁNO DNE": "25.9.2023",
+    "STABILITNÍ STATUS": "STABILNÍ VÍCE než 10 dní",
+    "POSLEDNÍ ODEČET": "15.10.2023   7:15",
+    "gradinet posunu mm/mesic": -0.0012
+    "odpovědná osoba zhotovitele": "Ing. Vohlídal",
+    "kontakt": "+420 775 729 881",
+    "Plánovaná revize DNE": "25.11.2023",
+    "zpráva zhotoviteli": "do 15.10. kontaktujte Máňu + 420 778 225 321",
+    "zpráva majiteli": "Vážený pane ty kytky Vám zalévat nebudeme !!!"
+ },
+  "inclinometer015": {
+    "číslo popisné": 51,
+    "vlastník": "Břeň",
+    "vlastník kontakt": "+420 605 229 001",
+    "INSTALOVANÝ MĚŘIČ": "SIESMO BOSCH 3150",
+    "INSTALOVÁNO DNE": "25.9.2023",
+    "STABILITNÍ STATUS": "STABILNÍ VÍCE než 10 dní",
+    "POSLEDNÍ ODEČET": "15.10.2023   7:15",
+    "gradinet posunu mm/mesic": -0.0012
+    "odpovědná osoba zhotovitele": "Ing. Vohlídal",
+    "kontakt": "+420 775 729 881",
+    "Plánovaná revize DNE": "25.11.2023",
+    "zpráva zhotoviteli": "do 15.10. kontaktujte Máňu + 420 778 225 321",
+    "zpráva majiteli": "Vážený pane ty kytky Vám zalévat nebudeme !!!"
+ },
+  "inclinometer016": {
+    "číslo popisné": 52,
+    "vlastník": "Břeň",
+    "vlastník kontakt": "+420 605 229 001",
+    "INSTALOVANÝ MĚŘIČ": "SIESMO BOSCH 3150",
+    "INSTALOVÁNO DNE": "25.9.2023",
+    "STABILITNÍ STATUS": "STABILNÍ VÍCE než 10 dní",
+    "POSLEDNÍ ODEČET": "15.10.2023   7:15",
+    "gradinet posunu mm/mesic": -0.0012
+    "odpovědná osoba zhotovitele": "Ing. Vohlídal",
+    "kontakt": "+420 775 729 881",
+    "Plánovaná revize DNE": "25.11.2023",
+    "zpráva zhotoviteli": "do 15.10. kontaktujte Máňu + 420 778 225 321",
+    "zpráva majiteli": "Vážený pane ty kytky Vám zalévat nebudeme !!!"
+ },
+  "inclinometer017": {
+    "číslo popisné": 53,
+    "vlastník": "Břeň",
+    "vlastník kontakt": "+420 605 229 001",
+    "INSTALOVANÝ MĚŘIČ": "SIESMO BOSCH 3150",
+    "INSTALOVÁNO DNE": "25.9.2023",
+    "STABILITNÍ STATUS": "STABILNÍ VÍCE než 10 dní",
+    "POSLEDNÍ ODEČET": "15.10.2023   7:15",
+    "gradinet posunu mm/mesic": -0.0012
+    "odpovědná osoba zhotovitele": "Ing. Vohlídal",
+    "kontakt": "+420 775 729 881",
+    "Plánovaná revize DNE": "25.11.2023",
+    "zpráva zhotoviteli": "do 15.10. kontaktujte Máňu + 420 778 225 321",
+    "zpráva majiteli": "Vážený pane ty kytky Vám zalévat nebudeme !!!"
+ },
+  "inclinometer018": {
+    "číslo popisné": 54,
+    "vlastník": "Břeň",
+    "vlastník kontakt": "+420 605 229 001",
+    "INSTALOVANÝ MĚŘIČ": "SIESMO BOSCH 3150",
+    "INSTALOVÁNO DNE": "25.9.2023",
+    "STABILITNÍ STATUS": "STABILNÍ VÍCE než 10 dní",
+    "POSLEDNÍ ODEČET": "15.10.2023   7:15",
+    "gradinet posunu mm/mesic": -0.0012
+    "odpovědná osoba zhotovitele": "Ing. Vohlídal",
+    "kontakt": "+420 775 729 881",
+    "Plánovaná revize DNE": "25.11.2023",
+    "zpráva zhotoviteli": "do 15.10. kontaktujte Máňu + 420 778 225 321",
+    "zpráva majiteli": "Vážený pane ty kytky Vám zalévat nebudeme !!!"
+ },
+  "inclinometer019": {
+    "číslo popisné": 55,
+    "vlastník": "Břeň",
+    "vlastník kontakt": "+420 605 229 001",
+    "INSTALOVANÝ MĚŘIČ": "SIESMO BOSCH 3150",
+    "INSTALOVÁNO DNE": "25.9.2023",
+    "STABILITNÍ STATUS": "STABILNÍ VÍCE než 10 dní",
+    "POSLEDNÍ ODEČET": "15.10.2023   7:15",
+    "gradinet posunu mm/mesic": -0.0012
+    "odpovědná osoba zhotovitele": "Ing. Vohlídal",
+    "kontakt": "+420 775 729 881",
+    "Plánovaná revize DNE": "25.11.2023",
+    "zpráva zhotoviteli": "do 15.10. kontaktujte Máňu + 420 778 225 321",
+    "zpráva majiteli": "Vážený pane ty kytky Vám zalévat nebudeme !!!"
+ },
+  "inclinometer020": {
+    "číslo popisné": 56,
+    "vlastník": "Břeň",
+    "vlastník kontakt": "+420 605 229 001",
+    "INSTALOVANÝ MĚŘIČ": "SIESMO BOSCH 3150",
+    "INSTALOVÁNO DNE": "25.9.2023",
+    "STABILITNÍ STATUS": "STABILNÍ VÍCE než 10 dní",
+    "POSLEDNÍ ODEČET": "15.10.2023   7:15",
+    "gradinet posunu mm/mesic": -0.0012
+    "odpovědná osoba zhotovitele": "Ing. Vohlídal",
+    "kontakt": "+420 775 729 881",
+    "Plánovaná revize DNE": "25.11.2023",
+    "zpráva zhotoviteli": "do 15.10. kontaktujte Máňu + 420 778 225 321",
+    "zpráva majiteli": "Vážený pane ty kytky Vám zalévat nebudeme !!!"
+ },
+  "inclinometer020": {
+    "číslo popisné": 57,
+    "vlastník": "Břeň",
+    "vlastník kontakt": "+420 605 229 001",
+    "INSTALOVANÝ MĚŘIČ": "SIESMO BOSCH 3150",
+    "INSTALOVÁNO DNE": "25.9.2023",
+    "STABILITNÍ STATUS": "STABILNÍ VÍCE než 10 dní",
+    "POSLEDNÍ ODEČET": "15.10.2023   7:15",
+    "gradinet posunu mm/mesic": -0.0012
+    "odpovědná osoba zhotovitele": "Ing. Vohlídal",
+    "kontakt": "+420 775 729 881",
+    "Plánovaná revize DNE": "25.11.2023",
+    "zpráva zhotoviteli": "do 15.10. kontaktujte Máňu + 420 778 225 321",
+    "zpráva majiteli": "Vážený pane ty kytky Vám zalévat nebudeme !!!"
+ },
+  "inclinometer021": {
+    "číslo popisné": 58,
+    "vlastník": "Břeň",
+    "vlastník kontakt": "+420 605 229 001",
+    "INSTALOVANÝ MĚŘIČ": "SIESMO BOSCH 3150",
+    "INSTALOVÁNO DNE": "25.9.2023",
+    "STABILITNÍ STATUS": "STABILNÍ VÍCE než 10 dní",
+    "POSLEDNÍ ODEČET": "15.10.2023   7:15",
+    "gradinet posunu mm/mesic": -0.0012
+    "odpovědná osoba zhotovitele": "Ing. Vohlídal",
+    "kontakt": "+420 775 729 881",
+    "Plánovaná revize DNE": "25.11.2023",
+    "zpráva zhotoviteli": "do 15.10. kontaktujte Máňu + 420 778 225 321",
+    "zpráva majiteli": "Vážený pane ty kytky Vám zalévat nebudeme !!!"
+ },
+  "inclinometer022": {
+    "číslo popisné": 59,
+    "vlastník": "Břeň",
+    "vlastník kontakt": "+420 605 229 001",
+    "INSTALOVANÝ MĚŘIČ": "SIESMO BOSCH 3150",
+    "INSTALOVÁNO DNE": "25.9.2023",
+    "STABILITNÍ STATUS": "STABILNÍ VÍCE než 10 dní",
+    "POSLEDNÍ ODEČET": "15.10.2023   7:15",
+    "gradinet posunu mm/mesic": -0.0012
+    "odpovědná osoba zhotovitele": "Ing. Vohlídal",
+    "kontakt": "+420 775 729 881",
+    "Plánovaná revize DNE": "25.11.2023",
+    "zpráva zhotoviteli": "do 15.10. kontaktujte Máňu + 420 778 225 321",
+    "zpráva majiteli": "Vážený pane ty kytky Vám zalévat nebudeme !!!"
+ },
+  "inclinometer023": {
+    "číslo popisné": 60,
+    "vlastník": "Břeň",
+    "vlastník kontakt": "+420 605 229 001",
+    "INSTALOVANÝ MĚŘIČ": "SIESMO BOSCH 3150",
+    "INSTALOVÁNO DNE": "25.9.2023",
+    "STABILITNÍ STATUS": "STABILNÍ VÍCE než 10 dní",
+    "POSLEDNÍ ODEČET": "15.10.2023   7:15",
+    "gradinet posunu mm/mesic": -0.0012
+    "odpovědná osoba zhotovitele": "Ing. Vohlídal",
+    "kontakt": "+420 775 729 881",
+    "Plánovaná revize DNE": "25.11.2023",
+    "zpráva zhotoviteli": "do 15.10. kontaktujte Máňu + 420 778 225 321",
+    "zpráva majiteli": "Vážený pane ty kytky Vám zalévat nebudeme !!!"
+ },
+  "inclinometer024": {
+    "číslo popisné": 61,
+    "vlastník": "Břeň",
+    "vlastník kontakt": "+420 605 229 001",
+    "INSTALOVANÝ MĚŘIČ": "SIESMO BOSCH 3150",
+    "INSTALOVÁNO DNE": "25.9.2023",
+    "STABILITNÍ STATUS": "STABILNÍ VÍCE než 10 dní",
+    "POSLEDNÍ ODEČET": "15.10.2023   7:15",
+    "gradinet posunu mm/mesic": -0.0012
+    "odpovědná osoba zhotovitele": "Ing. Vohlídal",
+    "kontakt": "+420 775 729 881",
+    "Plánovaná revize DNE": "25.11.2023",
+    "zpráva zhotoviteli": "do 15.10. kontaktujte Máňu + 420 778 225 321",
+    "zpráva majiteli": "Vážený pane ty kytky Vám zalévat nebudeme !!!"
+ },
+  "inclinometer025": {
+    "číslo popisné": 62,
+    "vlastník": "Břeň",
+    "vlastník kontakt": "+420 605 229 001",
+    "INSTALOVANÝ MĚŘIČ": "SIESMO BOSCH 3150",
+    "INSTALOVÁNO DNE": "25.9.2023",
+    "STABILITNÍ STATUS": "STABILNÍ VÍCE než 10 dní",
+    "POSLEDNÍ ODEČET": "15.10.2023   7:15",
+    "gradinet posunu mm/mesic": -0.0012
+    "odpovědná osoba zhotovitele": "Ing. Vohlídal",
+    "kontakt": "+420 775 729 881",
+    "Plánovaná revize DNE": "25.11.2023",
+    "zpráva zhotoviteli": "do 15.10. kontaktujte Máňu + 420 778 225 321",
+    "zpráva majiteli": "Vážený pane ty kytky Vám zalévat nebudeme !!!"
+ },
+  "inclinometer026": {
+    "číslo popisné": 63,
+    "vlastník": "Břeň",
+    "vlastník kontakt": "+420 605 229 001",
+    "INSTALOVANÝ MĚŘIČ": "SIESMO BOSCH 3150",
+    "INSTALOVÁNO DNE": "25.9.2023",
+    "STABILITNÍ STATUS": "STABILNÍ VÍCE než 10 dní",
+    "POSLEDNÍ ODEČET": "15.10.2023   7:15",
+    "gradinet posunu mm/mesic": -0.0012
+    "odpovědná osoba zhotovitele": "Ing. Vohlídal",
+    "kontakt": "+420 775 729 881",
+    "Plánovaná revize DNE": "25.11.2023",
+    "zpráva zhotoviteli": "do 15.10. kontaktujte Máňu + 420 778 225 321",
+    "zpráva majiteli": "Vážený pane ty kytky Vám zalévat nebudeme !!!"
+ },
+  "inclinometer027": {
+    "číslo popisné": 64,
+    "vlastník": "Břeň",
+    "vlastník kontakt": "+420 605 229 001",
+    "INSTALOVANÝ MĚŘIČ": "SIESMO BOSCH 3150",
+    "INSTALOVÁNO DNE": "25.9.2023",
+    "STABILITNÍ STATUS": "STABILNÍ VÍCE než 10 dní",
+    "POSLEDNÍ ODEČET": "15.10.2023   7:15",
+    "gradinet posunu mm/mesic": -0.0012
+    "odpovědná osoba zhotovitele": "Ing. Vohlídal",
+    "kontakt": "+420 775 729 881",
+    "Plánovaná revize DNE": "25.11.2023",
+    "zpráva zhotoviteli": "do 15.10. kontaktujte Máňu + 420 778 225 321",
+    "zpráva majiteli": "Vážený pane ty kytky Vám zalévat nebudeme !!!"
+ },
+  "inclinometer028": {
+    "číslo popisné": 65,
+    "vlastník": "Břeň",
+    "vlastník kontakt": "+420 605 229 001",
+    "INSTALOVANÝ MĚŘIČ": "SIESMO BOSCH 3150",
+    "INSTALOVÁNO DNE": "25.9.2023",
+    "STABILITNÍ STATUS": "STABILNÍ VÍCE než 10 dní",
+    "POSLEDNÍ ODEČET": "15.10.2023   7:15",
+    "gradinet posunu mm/mesic": -0.0012
+    "odpovědná osoba zhotovitele": "Ing. Vohlídal",
+    "kontakt": "+420 775 729 881",
+    "Plánovaná revize DNE": "25.11.2023",
+    "zpráva zhotoviteli": "do 15.10. kontaktujte Máňu + 420 778 225 321",
+    "zpráva majiteli": "Vážený pane ty kytky Vám zalévat nebudeme !!!"
+ },
+  "inclinometer029": {
+    "číslo popisné": 66,
+    "vlastník": "Břeň",
+    "vlastník kontakt": "+420 605 229 001",
+    "INSTALOVANÝ MĚŘIČ": "SIESMO BOSCH 3150",
+    "INSTALOVÁNO DNE": "25.9.2023",
+    "STABILITNÍ STATUS": "STABILNÍ VÍCE než 10 dní",
+    "POSLEDNÍ ODEČET": "15.10.2023   7:15",
+    "gradinet posunu mm/mesic": -0.0012
+    "odpovědná osoba zhotovitele": "Ing. Vohlídal",
+    "kontakt": "+420 775 729 881",
+    "Plánovaná revize DNE": "25.11.2023",
+    "zpráva zhotoviteli": "do 15.10. kontaktujte Máňu + 420 778 225 321",
+    "zpráva majiteli": "Vážený pane ty kytky Vám zalévat nebudeme !!!"
+ },
+  "inclinometer030": {
+    "číslo popisné": 67,
+    "vlastník": "Břeň",
+    "vlastník kontakt": "+420 605 229 001",
+    "INSTALOVANÝ MĚŘIČ": "SIESMO BOSCH 3150",
+    "INSTALOVÁNO DNE": "25.9.2023",
+    "STABILITNÍ STATUS": "STABILNÍ VÍCE než 10 dní",
+    "POSLEDNÍ ODEČET": "15.10.2023   7:15",
+    "gradinet posunu mm/mesic": -0.0012
+    "odpovědná osoba zhotovitele": "Ing. Vohlídal",
+    "kontakt": "+420 775 729 881",
+    "Plánovaná revize DNE": "25.11.2023",
+    "zpráva zhotoviteli": "do 15.10. kontaktujte Máňu + 420 778 225 321",
+    "zpráva majiteli": "Vážený pane ty kytky Vám zalévat nebudeme !!!"
+ },
+  "inclinometer031": {
+    "číslo popisné": 68,
+    "vlastník": "Břeň",
+    "vlastník kontakt": "+420 605 229 001",
+    "INSTALOVANÝ MĚŘIČ": "SIESMO BOSCH 3150",
+    "INSTALOVÁNO DNE": "25.9.2023",
+    "STABILITNÍ STATUS": "STABILNÍ VÍCE než 10 dní",
+    "POSLEDNÍ ODEČET": "15.10.2023   7:15",
+    "gradinet posunu mm/mesic": -0.0012
+    "odpovědná osoba zhotovitele": "Ing. Vohlídal",
+    "kontakt": "+420 775 729 881",
+    "Plánovaná revize DNE": "25.11.2023",
+    "zpráva zhotoviteli": "do 15.10. kontaktujte Máňu + 420 778 225 321",
+    "zpráva majiteli": "Vážený pane ty kytky Vám zalévat nebudeme !!!"
+ },
+  "inclinometer032": {
+    "číslo popisné": 69,
+    "vlastník": "Břeň",
+    "vlastník kontakt": "+420 605 229 001",
+    "INSTALOVANÝ MĚŘIČ": "SIESMO BOSCH 3150",
+    "INSTALOVÁNO DNE": "25.9.2023",
+    "STABILITNÍ STATUS": "STABILNÍ VÍCE než 10 dní",
+    "POSLEDNÍ ODEČET": "15.10.2023   7:15",
+    "gradinet posunu mm/mesic": -0.0012
+    "odpovědná osoba zhotovitele": "Ing. Vohlídal",
+    "kontakt": "+420 775 729 881",
+    "Plánovaná revize DNE": "25.11.2023",
+    "zpráva zhotoviteli": "do 15.10. kontaktujte Máňu + 420 778 225 321",
+    "zpráva majiteli": "Vážený pane ty kytky Vám zalévat nebudeme !!!"
+ },
+  "inclinometer033": {
+    "číslo popisné": 70,
+    "vlastník": "Břeň",
+    "vlastník kontakt": "+420 605 229 001",
+    "INSTALOVANÝ MĚŘIČ": "SIESMO BOSCH 3150",
+    "INSTALOVÁNO DNE": "25.9.2023",
+    "STABILITNÍ STATUS": "STABILNÍ VÍCE než 10 dní",
+    "POSLEDNÍ ODEČET": "15.10.2023   7:15",
+    "gradinet posunu mm/mesic": -0.0012
+    "odpovědná osoba zhotovitele": "Ing. Vohlídal",
+    "kontakt": "+420 775 729 881",
+    "Plánovaná revize DNE": "25.11.2023",
+    "zpráva zhotoviteli": "do 15.10. kontaktujte Máňu + 420 778 225 321",
+    "zpráva majiteli": "Vážený pane ty kytky Vám zalévat nebudeme !!!"
+ },
+  "inclinometer034": {
+    "číslo popisné": 71,
+    "vlastník": "Břeň",
+    "vlastník kontakt": "+420 605 229 001",
+    "INSTALOVANÝ MĚŘIČ": "SIESMO BOSCH 3150",
+    "INSTALOVÁNO DNE": "25.9.2023",
+    "STABILITNÍ STATUS": "STABILNÍ VÍCE než 10 dní",
+    "POSLEDNÍ ODEČET": "15.10.2023   7:15",
+    "gradinet posunu mm/mesic": -0.0012
+    "odpovědná osoba zhotovitele": "Ing. Vohlídal",
+    "kontakt": "+420 775 729 881",
+    "Plánovaná revize DNE": "25.11.2023",
+    "zpráva zhotoviteli": "do 15.10. kontaktujte Máňu + 420 778 225 321",
+    "zpráva majiteli": "Vážený pane ty kytky Vám zalévat nebudeme !!!"
+ },
+  "inclinometer035": {
+    "číslo popisné": 72,
+    "vlastník": "Břeň",
+    "vlastník kontakt": "+420 605 229 001",
+    "INSTALOVANÝ MĚŘIČ": "SIESMO BOSCH 3150",
+    "INSTALOVÁNO DNE": "25.9.2023",
+    "STABILITNÍ STATUS": "STABILNÍ VÍCE než 10 dní",
+    "POSLEDNÍ ODEČET": "15.10.2023   7:15",
+    "gradinet posunu mm/mesic": -0.0012
+    "odpovědná osoba zhotovitele": "Ing. Vohlídal",
+    "kontakt": "+420 775 729 881",
+    "Plánovaná revize DNE": "25.11.2023",
+    "zpráva zhotoviteli": "do 15.10. kontaktujte Máňu + 420 778 225 321",
+    "zpráva majiteli": "Vážený pane ty kytky Vám zalévat nebudeme !!!"
+ }
 }
