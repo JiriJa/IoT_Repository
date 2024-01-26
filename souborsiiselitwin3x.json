@@ -1,0 +1,137 @@
+{
+  "inclinometer010": {
+    "STABILITNÍ STATUS": 1,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": 0.0023
+ },
+  "inclinometer011": {
+    "STABILITNÍ STATUS": 1,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": -0.0012
+ },
+  "inclinometer012": {
+    "STABILITNÍ STATUS": 1,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": -0.0012
+ },
+  "inclinometer013": {
+    "STABILITNÍ STATUS": 1,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": 0.0023
+ },
+  "inclinometer014": {
+    "STABILITNÍ STATUS": 2,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": -0.0042
+ },
+  "inclinometer015": {
+    "STABILITNÍ STATUS": 1,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": -0.0012
+ },
+  "inclinometer016": {
+    "STABILITNÍ STATUS": 1,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": 0.0023
+ },
+  "inclinometer017": {
+    "STABILITNÍ STATUS": 1,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": -0.0012
+ },
+  "inclinometer018": {
+    "STABILITNÍ STATUS": 1,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": -0.0012
+ },
+  "inclinometer019": {
+    "STABILITNÍ STATUS": 3,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": 0.0723
+ },
+  "inclinometer020": {
+    "STABILITNÍ STATUS": 1,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": -0.0012
+ },
+  "inclinometer020": {
+    "STABILITNÍ STATUS": 1,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": -0.0012
+ },
+  "inclinometer021": {
+    "STABILITNÍ STATUS": 1,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": 0.0023
+ },
+  "inclinometer022": {
+    "STABILITNÍ STATUS": 1,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": -0.0012
+ },
+  "inclinometer023": {
+    "STABILITNÍ STATUS": 3,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": -0.0712
+ },
+  "inclinometer024": {
+    "STABILITNÍ STATUS": 2,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": 0.0053
+ },
+  "inclinometer025": {
+    "STABILITNÍ STATUS": 1,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": -0.0012
+ },
+  "inclinometer026": {
+    "STABILITNÍ STATUS": 1,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": -0.0012
+ },
+  "inclinometer027": {
+    "STABILITNÍ STATUS": 1,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": 0.0023
+ },
+  "inclinometer028": {
+    "STABILITNÍ STATUS": 5,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": -0.0912
+ },
+  "inclinometer029": {
+    "STABILITNÍ STATUS": 5,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": -0.00912
+ },
+  "inclinometer030": {
+    "STABILITNÍ STATUS": 1,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": -0.0012
+ },
+  "inclinometer031": {
+    "STABILITNÍ STATUS": 1,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": 0.0023
+ },
+  "inclinometer032": {
+    "STABILITNÍ STATUS": 1,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": -0.0012
+ },
+  "inclinometer033": {
+    "STABILITNÍ STATUS": 1,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": -0.0012
+ },
+  "inclinometer034": {
+    "STABILITNÍ STATUS": 1,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": -0.0012
+ },
+  "inclinometer035": {
+    "STABILITNÍ STATUS": 1,
+    "delta MAX tolerce hodnota +/- mm": 0.2,
+    "gradinet posunu mm/mesic": 0.0023
+ }
+}
